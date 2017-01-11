@@ -5,4 +5,3 @@ My favorite pizza toppings:
 
 * Cheese
 * More cheese
-* Even more cheese
